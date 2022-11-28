@@ -36,3 +36,10 @@ You will need to write JavaScript/Java code to interact with your selected UI te
 All tests should run and pass. Please complete the solution and share it via gitHub with instructions on how to run the project. The repository should be shared with the recruiting manager.
 
 The project should have clear instructions on how to build and run tests and to specify where to find results.
+
+
+Execution 
+clone the rapo
+install npm -i (node modules)
+run the calculate.js file
+
